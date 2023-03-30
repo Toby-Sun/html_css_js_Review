@@ -1,0 +1,14 @@
+
+body {
+    background-color: grey;
+    font-family: 'Dongle', sans-serif;
+  }
+figure {
+  margin:left,20%;
+}
+
+figcaption {
+  padding: 2px;
+  text-align: center;
+  font-family: 'Dongle', sans-serif;
+}

@@ -1,0 +1,16 @@
+@media all {
+	body {
+		background-color: grey;
+	}
+	@media  print
+	{
+		body {
+			font-size: 10px;
+			background-image:none;
+			font-family: sans-serif;
+			background-color: transparent; /*no color*/
+		}
+		p {
+			font-size: 5px;
+		}
+	}
